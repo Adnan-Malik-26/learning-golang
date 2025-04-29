@@ -20,6 +20,7 @@ Welcome to my Golang learning repository! This repository tracks my progress in 
 ```
 /golang-learning
 │── /basics         # Go syntax, variables, control structures
+│── /notes          # Notes for learning go
 │── /concurrency    # Goroutines, channels, and select statements
 │── /projects       # Mini-projects and tools built with Go
 │── /web            # Simple web applications using net/http
